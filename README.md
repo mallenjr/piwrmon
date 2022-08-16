@@ -4,7 +4,7 @@ I wanted a script that I could use to manage my servers during a power outage us
 
 ## TODO
 
-- [ ] Create systemd service for this program
+- [x] Create systemd service for this program
 - [ ] Add support for sending commands to other hosts over ip
 
 ## Building and running
